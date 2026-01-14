@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Te amo❤️(ta me devendo zerar o split fiction)</h1>;
+  return <h1>Mattab</h1>;
 }
 
 export default Home;
