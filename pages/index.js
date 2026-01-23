@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 function Home() {
   return (
     <div className={styles.container}>
-      <Image src="/assets/ela.jpg" alt="Imagem" />
+      <Image src="/assets/ela.jpg" alt="Imagem" width={1080} height={1920} />
 
       <h1 className={styles.title}>Te amo ❤️</h1>
 
